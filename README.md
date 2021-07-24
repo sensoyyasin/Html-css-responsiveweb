@@ -1,6 +1,8 @@
 # Html-css-responsiveweb
 
-! What I did in the bg tutorial is to create a wave pattern website.
+What I did in the bg tutorial is to create a wave pattern website.
+
+
 ![wave](https://user-images.githubusercontent.com/73845925/126880127-c42117cf-6b86-41d2-b4ac-3d32325824e9.png)
 
 Currently unpublished site that I continue to develop for the rocket team at my university 
