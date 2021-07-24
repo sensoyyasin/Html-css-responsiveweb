@@ -1,0 +1,51 @@
+*,
+*::before,
+*::after {
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+
+.wrapper {
+    position: relative;
+    height: 70vh;
+    background: #283c86;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #45a247, #283c86); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+h1 {
+    color: #FFFFFF;
+    padding: 5rem;
+}
+
+button {
+    border:none;
+    border-radius: 10px;
+    padding: 2rem 5rem;
+    margin: 5rem;
+}
+
+.custom-shape-divider-bottom-1627154690 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1627154690 svg {
+    position: relative;
+    display: block;
+    width: calc(137% + 1.3px);
+    height: 185px;
+}
+
+.custom-shape-divider-bottom-1627154690 .shape-fill {
+    fill: #FFFFFF;
+}
